@@ -1,6 +1,5 @@
 function Home() {
-  return `<h2>Esse é meu primeiro Deploy :3
-         </h2>`;
+  return (<h1>Esse é Meu primeriro Projeto</h1>), (<button>Teste</button>);
 }
 
 export default Home;
